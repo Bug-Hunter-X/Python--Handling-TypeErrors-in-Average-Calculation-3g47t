@@ -1,0 +1,1 @@
+This repository demonstrates a common Python bug involving type errors in calculations and shows how to fix it using exception handling. The `bug.py` file shows the original buggy code, while `bugSolution.py` provides the corrected version.
